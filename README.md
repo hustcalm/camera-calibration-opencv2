@@ -7,17 +7,17 @@ Camera Calibration using OpenCV cpp interface and Zhengyou Zhang's algorithm.
 The code comes from samples/cpp/tutorial_code/calib3d/camera_calibration/ and all related comments can be found at [Camera calibration With OpenCV](http://docs.opencv.org/doc/tutorials/calib3d/camera_calibration/camera_calibration.html).
 
 ### Files
-*   camera_calibration.cpp
+*   camera_calibration.cpp   
 The main routine.
-*   in_VID5.xml
+*   in_VID5.xml   
 The file for settings.
-*   VID5.xml
+*   VID5.xml   
 The file for specifying image list if using captured shots for calibration.
-*   out_camera_data.xml
+*   out_camera_data.xml   
 The name for output log file specified in in_VID5.xml.
-*   out_camera_data.yml
+*   out_camera_data.yml   
 Another name for output log file specified in in_VID5.xml.
-*   calib_pattern.pdf
+*   calib_pattern.pdf   
 The pattern for printing(typically in A4 or A3 size).
 
 ### Calibration 
